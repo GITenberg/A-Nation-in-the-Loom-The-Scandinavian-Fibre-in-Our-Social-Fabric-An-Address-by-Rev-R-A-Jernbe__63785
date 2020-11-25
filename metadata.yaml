@@ -1,0 +1,31 @@
+_repo: A-Nation-in-the-Loom-The-Scandinavian-Fibre-in-Our-Social-Fabric-An-Address-by-Rev-R-A-Jernbe__63785
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Simmons, Henry Clay
+    alias: Simmons, H. C.
+    gutenberg_agent_id: '52585'
+    url: http://www.gutenberg.org/2009/agents/52585
+creator:
+  author:
+    agent_name: Jernberg, R. A. (Reinert August)
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '52600'
+    url: http://www.gutenberg.org/2009/agents/52600
+description: ''
+gutenberg_issued: '2020-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavians -- United States'
+- !lcc 'E151'
+- GITenberg
+title: "A Nation in the Loom: The Scandinavian Fibre in Our Social Fabric\r\nAn Address\
+  \ by Rev. R. A. Jernberg"
+url: http://www.gutenberg.org/ebooks/63785
