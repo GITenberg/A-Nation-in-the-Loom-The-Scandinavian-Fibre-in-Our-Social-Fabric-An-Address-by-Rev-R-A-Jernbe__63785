@@ -6,6 +6,9 @@ contributor:
     alias: Simmons, H. C.
     gutenberg_agent_id: '52585'
     url: http://www.gutenberg.org/2009/agents/52585
+covers:
+- cover_type: archival
+  image_path: 63785-h/images/cover.jpg
 creator:
   author:
     agent_name: Jernberg, R. A. (Reinert August)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '52600'
     url: http://www.gutenberg.org/2009/agents/52600
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63785#A-Nation-in-the-Loom-The-Scandinavian-Fibre-in-Our-Social-Fabric-An-Address-by-Rev-R-A-Jernbe_
 gutenberg_issued: '2020-11-16'
 gutenberg_type: Text
 identifiers:
